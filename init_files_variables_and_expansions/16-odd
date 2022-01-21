@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l | grep -n '.*$' | grep -E '^[0-9]*[13579]'
+awk '{print NR,":"}' |  grep -n '.*$' | grep -E '^[0-9]*[13579]'
