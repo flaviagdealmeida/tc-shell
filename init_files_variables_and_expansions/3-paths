@@ -1,2 +1,2 @@
 #!/bin/bash
-du --inodes
+export du --inodes
