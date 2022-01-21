@@ -8,4 +8,5 @@ O Script 6 cria uma nova variavel de ambiente
 O Script 7 cria uma nova variavel global de ambiente
 O Script 8 soma 128 a uma variavel de ambiente
 O Script 9 faz um calculo de divisão entre 2 variaveis de ambiente
+O Script 10 faz um calculo exponencial
 
