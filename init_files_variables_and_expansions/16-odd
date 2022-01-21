@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | grep -n '.*$' | grep -E '^[0-9]*[13579]'
+$((number%2)) -eq 1 |tr " " ":" | grep -n '.*$' | grep -E '^[0-9]*[13579]'
