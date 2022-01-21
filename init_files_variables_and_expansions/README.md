@@ -5,3 +5,5 @@ O Script 3 exibe a qtde de diretorios de um path
 O Script 4 exibe todas as variaveis de ambiente
 O Script 5 exibe apenas variaveis locais
 O Script 6 cria uma nova variavel de ambiente
+O Script 7 cria uma nova variavel global de ambiente
+
