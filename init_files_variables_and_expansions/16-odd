@@ -1,2 +1,2 @@
 #!/bin/bash
-nl | grep -n '.*$' | grep -E '^[0-9]*[13579]'
+ls | nl| grep -n '.*$' | grep -E '^[0-9]*[13579]'
