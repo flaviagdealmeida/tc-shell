@@ -1,2 +1,2 @@
 #!/bin/bash
-du --inodes
+echo $PATH | /n wc -l 
