@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Rla ./ | grep "^d"  -c
+ls -Rl ~ | grep "^d"  -c
