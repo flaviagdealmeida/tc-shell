@@ -1,0 +1,6 @@
+--2022-01-25 06:22:32--  https://holbertonintranet.s3.amazonaws.com/files/correction_system/2503/22363/file1.tsv?X-Amz-Algorithm=AWS4-HMAC-SHA256
+Resolving holbertonintranet.s3.amazonaws.com (holbertonintranet.s3.amazonaws.com)... 54.231.193.153
+Connecting to holbertonintranet.s3.amazonaws.com (holbertonintranet.s3.amazonaws.com)|54.231.193.153|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2022-01-25 06:22:32 ERROR 400: Bad Request.
+
